@@ -1,5 +1,5 @@
 {
-  "name": "opencv-build",
+  "name": "@localtest/opencv-build",
   "version": "0.1.9",
   "description": "A simple script to auto build recent OpenCV + contrib version via npm",
   "main": "./build/index.js",
